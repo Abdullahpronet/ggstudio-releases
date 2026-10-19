@@ -7,12 +7,12 @@
   ],
   "zxp": {
     "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.5.1/GG-Studio-0.5.1.zxp",
-    "sha256": "36643bb18516c2ba602a3049054a21178d09e16861bee62d7cd701176247f539",
-    "size": 15865574
+    "sha256": "6611cfeff788956ce788601d08fa94c7aee3f871b1292a86ca9158240b0a2d6e",
+    "size": 15867639
   },
   "installer": {
     "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.5.1/GG-Studio-Setup-0.5.1.exe",
-    "sha256": "d538a7a7c99d5ad6247236ce3794d6eee26c7e7784dee2dfbacd2d7154fb3110"
+    "sha256": "b5eba5f4f21f7672af40a3cb67b712d1f8e10879a6acea4fcbe7ba79a7ef46f3"
   },
   "minAE": "22.0"
 }
