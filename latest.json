@@ -1,0 +1,18 @@
+{
+  "version": "0.5.1",
+  "date": "2026-10-20",
+  "notes": [
+    "Automatic updates: GG Studio tells you when a new version is out.",
+    "The DLSS 5 GG Booster tab credits Visual Enhancer by Merserk."
+  ],
+  "zxp": {
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.5.1/GG-Studio-0.5.1.zxp",
+    "sha256": "36643bb18516c2ba602a3049054a21178d09e16861bee62d7cd701176247f539",
+    "size": 15865574
+  },
+  "installer": {
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.5.1/GG-Studio-Setup-0.5.1.exe",
+    "sha256": "d538a7a7c99d5ad6247236ce3794d6eee26c7e7784dee2dfbacd2d7154fb3110"
+  },
+  "minAE": "22.0"
+}
