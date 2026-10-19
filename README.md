@@ -10,6 +10,7 @@ Get GG Studio: https://proq8er.gumroad.com/l/ggstudio
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.6.0 | 2026-10-20 | [GG-Studio-Setup-0.6.0.exe](releases/0.6.0/GG-Studio-Setup-0.6.0.exe) | [What's new](releases/0.6.0/NOTES.md): colour pack and text pack |
 | 0.5.1 | 2026-10-20 | [GG-Studio-Setup-0.5.1.exe](releases/0.5.1/GG-Studio-Setup-0.5.1.exe) | [What's new](releases/0.5.1/NOTES.md) |
 
 The DLSS 5 GG Booster tab uses [Visual Enhancer by Merserk](https://github.com/Merserk/dlss5-visual-enhancer). The installer downloads it from Merserk's own releases, and it isn't included here.

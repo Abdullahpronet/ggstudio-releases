@@ -1,18 +1,21 @@
 {
-  "version": "0.5.1",
+  "version": "0.6.0",
   "date": "2026-10-20",
   "notes": [
-    "Automatic updates: GG Studio tells you when a new version is out.",
-    "The DLSS 5 GG Booster tab credits Visual Enhancer by Merserk."
+    "10 new looks: Valorant Pop, Warzone Cold, Fortnite Vivid, CoD Gritty, Apex Desert, Night Raid, Film 2383, Portra Warm, Bleach Bypass, 90s VHS.",
+    "Color FX: halation, bloom, colour fringe, grain, vignette, split-toning.",
+    "Auto fix, Shot match, One colour, Protect skin tones, Import LUT.",
+    "10 new text styles: Glitch, Slide up, 3D flip, Outline fill, Neon, Shine, Elastic, Squash, Slam, Zoom punch.",
+    "Karaoke captions, kill feed, damage numbers, combo counter, Victory banner, number roll, Comment GG call to action."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.5.1/GG-Studio-0.5.1.zxp",
-    "sha256": "6611cfeff788956ce788601d08fa94c7aee3f871b1292a86ca9158240b0a2d6e",
-    "size": 15867639
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.0/GG-Studio-0.6.0.zxp",
+    "sha256": "34fcaf1bb545cb5f170487fc3cb754cfbb4e737e113031b91546950b471d7257",
+    "size": 20310188
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.5.1/GG-Studio-Setup-0.5.1.exe",
-    "sha256": "b5eba5f4f21f7672af40a3cb67b712d1f8e10879a6acea4fcbe7ba79a7ef46f3"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.0/GG-Studio-Setup-0.6.0.exe",
+    "sha256": "e33bbc4db88c03a10bd508ed367083516ab5ebd9f0a572a56135b37d3963848b"
   },
   "minAE": "22.0"
 }
