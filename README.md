@@ -10,6 +10,7 @@ Get GG Studio: https://proq8er.gumroad.com/l/ggstudio
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.6.6 | 2026-10-21 | [GG-Studio-Setup-0.6.6.exe](releases/0.6.6/GG-Studio-Setup-0.6.6.exe) | [What's new](releases/0.6.6/NOTES.md): live preview for Text animations |
 | 0.6.5 | 2026-10-21 | [GG-Studio-Setup-0.6.5.exe](releases/0.6.5/GG-Studio-Setup-0.6.5.exe) | [What's new](releases/0.6.5/NOTES.md): Ember rise smoother finish |
 | 0.6.4 | 2026-10-20 | [GG-Studio-Setup-0.6.4.exe](releases/0.6.4/GG-Studio-Setup-0.6.4.exe) | [What's new](releases/0.6.4/NOTES.md): Ember rise rebuilt to match the reference |
 | 0.6.3 | 2026-10-20 | [GG-Studio-Setup-0.6.3.exe](releases/0.6.3/GG-Studio-Setup-0.6.3.exe) | [What's new](releases/0.6.3/NOTES.md): Ember rise matches the reference |
