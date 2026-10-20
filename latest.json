@@ -1,7 +1,8 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "date": "2026-10-20",
   "notes": [
+    "New text style: Ember rise. Letters rise out of a warm glowing blur and settle to white.",
     "10 new looks: Valorant Pop, Warzone Cold, Fortnite Vivid, CoD Gritty, Apex Desert, Night Raid, Film 2383, Portra Warm, Bleach Bypass, 90s VHS.",
     "Color FX: halation, bloom, colour fringe, grain, vignette, split-toning.",
     "Auto fix, Shot match, One colour, Protect skin tones, Import LUT.",
@@ -9,13 +10,13 @@
     "Karaoke captions, kill feed, damage numbers, combo counter, Victory banner, number roll, Comment GG call to action."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.0/GG-Studio-0.6.0.zxp",
-    "sha256": "34fcaf1bb545cb5f170487fc3cb754cfbb4e737e113031b91546950b471d7257",
-    "size": 20310188
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.1/GG-Studio-0.6.1.zxp",
+    "sha256": "50001b404b1eaf50f54504f38a244370ec88910102c971917753654750df6ee7",
+    "size": 20337770
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.0/GG-Studio-Setup-0.6.0.exe",
-    "sha256": "e33bbc4db88c03a10bd508ed367083516ab5ebd9f0a572a56135b37d3963848b"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.1/GG-Studio-Setup-0.6.1.exe",
+    "sha256": "5013431d5aaf3675622afb35d4d7252cb4f90e11db7b8718348eb6ef6e276df1"
   },
   "minAE": "22.0"
 }
