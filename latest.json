@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "date": "2026-10-20",
   "notes": [
-    "Ember rise now matches the reference: red-orange smudges rise and snap into sharp white letters.",
+    "Ember rise rebuilt frame by frame against the reference: bright blurred red embers rise, snap white and leave a short orange smear, with a soft bloom and push-in.",
     "10 new looks: Valorant Pop, Warzone Cold, Fortnite Vivid, CoD Gritty, Apex Desert, Night Raid, Film 2383, Portra Warm, Bleach Bypass, 90s VHS.",
     "Color FX: halation, bloom, colour fringe, grain, vignette, split-toning.",
     "Auto fix, Shot match, One colour, Protect skin tones, Import LUT.",
@@ -10,13 +10,13 @@
     "Karaoke captions, kill feed, damage numbers, combo counter, Victory banner, number roll, Comment GG call to action."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.3/GG-Studio-0.6.3.zxp",
-    "sha256": "1d6528dd0fbc314552fbc866b731c99e61b42d31c7214f15b37558fb3cd4783e",
-    "size": 20333616
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.4/GG-Studio-0.6.4.zxp",
+    "sha256": "853e0269c3b54fc02309034b51c3fc772f4bb9f958697406caca7671dbcd3f6e",
+    "size": 20387204
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.3/GG-Studio-Setup-0.6.3.exe",
-    "sha256": "0115b056ceac06598759bf539a84930ce133aff262f8bf308d4d964f3cbe147f"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.4/GG-Studio-Setup-0.6.4.exe",
+    "sha256": "7fe4a109ca8862961b5e3e520e4d19bcff226729d0efff4d3fc5256b7443de2f"
   },
   "minAE": "22.0"
 }
