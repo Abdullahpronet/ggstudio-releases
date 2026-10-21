@@ -1,23 +1,23 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "date": "2026-10-21",
   "notes": [
+    "Ember rise: the orange trail is now a real motion trail, like the reference. Each letter drags an orange streak that fades as it settles.",
     "Live preview for Text animations: the preview plays your settings in real time as you tune them, before you apply.",
     "Ember rise: smoother finish. The orange glow under the letters is soft with no streaks, and it fades gently instead of popping off.",
     "10 new looks: Valorant Pop, Warzone Cold, Fortnite Vivid, CoD Gritty, Apex Desert, Night Raid, Film 2383, Portra Warm, Bleach Bypass, 90s VHS.",
     "Color FX: halation, bloom, colour fringe, grain, vignette, split-toning.",
     "Auto fix, Shot match, One colour, Protect skin tones, Import LUT.",
-    "10 new text styles: Glitch, Slide up, 3D flip, Outline fill, Neon, Shine, Elastic, Squash, Slam, Zoom punch.",
-    "Karaoke captions, kill feed, damage numbers, combo counter, Victory banner, number roll, Comment GG call to action."
+    "10 new text styles: Glitch, Slide up, 3D flip, Outline fill, Neon, Shine, Elastic, Squash, Slam, Zoom punch."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.6/GG-Studio-0.6.6.zxp",
-    "sha256": "45e52ddf081ebf97d5070b003a1d828686561e79457b7e247790bdf083362cdf",
-    "size": 20466487
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.7/GG-Studio-0.6.7.zxp",
+    "sha256": "7b886e7b2ec67188f96cb9d24fdb15a03698cfc1aa2cd1a1e8bd7b84342409c3",
+    "size": 20445288
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.6/GG-Studio-Setup-0.6.6.exe",
-    "sha256": "6c83537013aea2cd241b67443f7b7530e99d0ad1e1fc37bae07bfb475783f841"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.7/GG-Studio-Setup-0.6.7.exe",
+    "sha256": "02944c6b057aeb9a4085be3bdb039cec282bd81684a13748de089aa18f397cb0"
   },
   "minAE": "22.0"
 }
