@@ -1,19 +1,19 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "date": "2026-10-21",
   "notes": [
-    "New Text presets: 32 looks with colour, glow and motion trails, live preview, In / Out / In + Out.",
-    "Ember rise rebuilt on the new engine: letters tilt in, arrive red-orange and leave a trail.",
-    "Cleaner Text panel: grouped into Animate text, Captions and Gaming, with clean previews."
+    "Live preview in every section: each tool's preview plays your own settings and restarts the moment you change one.",
+    "Animate, Text, Interact and Scene tools all preview live; hover a style to see it first.",
+    "Color FX and One colour update the after picture live; Shot match and LUT strength blend live."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.0/GG-Studio-0.7.0.zxp",
-    "sha256": "555e6030d9f49090c219ac5dd56b149e96d5f07e3a8180524525c4d2c7c80e9a",
-    "size": 18769607
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.1/GG-Studio-0.7.1.zxp",
+    "sha256": "420258912ab23adc09739297a5b9fe30648ae6eb7410c5feae50be953c888da0",
+    "size": 18268596
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.0/GG-Studio-Setup-0.7.0.exe",
-    "sha256": "b0b552223ece05bcb7b9b72bebd341e38997136dc5762d2d04382f9ad9a94e33"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.1/GG-Studio-Setup-0.7.1.exe",
+    "sha256": "570004476d4b31e210046646ea076386e3e053658236e087d03036ff00f626a1"
   },
   "minAE": "22.0"
 }
