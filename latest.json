@@ -1,23 +1,19 @@
 {
-  "version": "0.6.7",
+  "version": "0.7.0",
   "date": "2026-10-21",
   "notes": [
-    "Ember rise: the orange trail is now a real motion trail, like the reference. Each letter drags an orange streak that fades as it settles.",
-    "Live preview for Text animations: the preview plays your settings in real time as you tune them, before you apply.",
-    "Ember rise: smoother finish. The orange glow under the letters is soft with no streaks, and it fades gently instead of popping off.",
-    "10 new looks: Valorant Pop, Warzone Cold, Fortnite Vivid, CoD Gritty, Apex Desert, Night Raid, Film 2383, Portra Warm, Bleach Bypass, 90s VHS.",
-    "Color FX: halation, bloom, colour fringe, grain, vignette, split-toning.",
-    "Auto fix, Shot match, One colour, Protect skin tones, Import LUT.",
-    "10 new text styles: Glitch, Slide up, 3D flip, Outline fill, Neon, Shine, Elastic, Squash, Slam, Zoom punch."
+    "New Text presets: 32 looks with colour, glow and motion trails, live preview, In / Out / In + Out.",
+    "Ember rise rebuilt on the new engine: letters tilt in, arrive red-orange and leave a trail.",
+    "Cleaner Text panel: grouped into Animate text, Captions and Gaming, with clean previews."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.7/GG-Studio-0.6.7.zxp",
-    "sha256": "7b886e7b2ec67188f96cb9d24fdb15a03698cfc1aa2cd1a1e8bd7b84342409c3",
-    "size": 20445288
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.0/GG-Studio-0.7.0.zxp",
+    "sha256": "555e6030d9f49090c219ac5dd56b149e96d5f07e3a8180524525c4d2c7c80e9a",
+    "size": 18769607
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.6.7/GG-Studio-Setup-0.6.7.exe",
-    "sha256": "02944c6b057aeb9a4085be3bdb039cec282bd81684a13748de089aa18f397cb0"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.0/GG-Studio-Setup-0.7.0.exe",
+    "sha256": "b0b552223ece05bcb7b9b72bebd341e38997136dc5762d2d04382f9ad9a94e33"
   },
   "minAE": "22.0"
 }
