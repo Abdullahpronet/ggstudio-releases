@@ -1,19 +1,19 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "date": "2026-10-21",
   "notes": [
-    "Live preview in every section: each tool's preview plays your own settings and restarts the moment you change one.",
-    "Animate, Text, Interact and Scene tools all preview live; hover a style to see it first.",
-    "Color FX and One colour update the after picture live; Shot match and LUT strength blend live."
+    "Cleaner Animate, Interact, Scene and Color sections, grouped like the Text section.",
+    "Every card and style tile shows the tool on the GG Studio dark card; hover to play it.",
+    "Color tools show a framed before/after; style tiles show each look."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.1/GG-Studio-0.7.1.zxp",
-    "sha256": "420258912ab23adc09739297a5b9fe30648ae6eb7410c5feae50be953c888da0",
-    "size": 18268596
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.2/GG-Studio-0.7.2.zxp",
+    "sha256": "7f054f730f8193ad3783ea37de6d946d4b03843ac07685fa16fbf9e792d8d384",
+    "size": 21518571
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.1/GG-Studio-Setup-0.7.1.exe",
-    "sha256": "570004476d4b31e210046646ea076386e3e053658236e087d03036ff00f626a1"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.2/GG-Studio-Setup-0.7.2.exe",
+    "sha256": "fc6379bb3c6f6fc1d00af4f5f76d8e8ac649e4c430948c18896fbc44de439971"
   },
   "minAE": "22.0"
 }
