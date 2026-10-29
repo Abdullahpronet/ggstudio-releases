@@ -1,19 +1,19 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "date": "2026-10-29",
   "notes": [
-    "DLSS presets: 7 one-click looks in the DLSS 5 GG Booster tab.",
-    "Monthly, Yearly and Lifetime plans. Keys you already have keep working as Lifetime.",
-    "Fixed the Gameplay fix picture in Color correction."
+    "Monthly, Yearly and Lifetime on one page. Monthly lasts 30 days, Yearly 12 months.",
+    "A reminder 5 days before a plan ends, with a button to get a new plan.",
+    "Smooth 120 FPS works on clips that are already 120 fps or more."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.0/GG-Studio-0.8.0.zxp",
-    "sha256": "961741dcfb0dd784805ee2c6c7cc879ecc6cdfe5cbac4062ce44c9b4d120203a",
-    "size": 21569061
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.1/GG-Studio-0.8.1.zxp",
+    "sha256": "2e2afd8419151a68f4add766539970d2a01c3c21c74bcf11a2517d5acdde34fe",
+    "size": 21570315
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.0/GG-Studio-Setup-0.8.0.exe",
-    "sha256": "007786633f6c7c901e0266ce9c063f1081d60ea2e187a757418f5b27384a9e1d"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.1/GG-Studio-Setup-0.8.1.exe",
+    "sha256": "548505b6bc7774da1578fd1f1c321578d2b8709cc38a930810c0cb6ce00aa7f4"
   },
   "minAE": "22.0"
 }
