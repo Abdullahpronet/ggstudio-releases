@@ -6,7 +6,7 @@ GG Studio checks `latest.json` here when it starts. When there's a newer version
 
 Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstudio
 
-**Download the latest installer:** [GG-Studio-Setup.exe](https://github.com/Abdullahpronet/ggstudio-releases/releases/latest/download/GG-Studio-Setup.exe)
+**Download the latest installer:** [GG-Studio-Setup.exe](https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/latest/GG-Studio-Setup.exe)
 
 ## Versions
 
