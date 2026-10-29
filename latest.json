@@ -1,19 +1,19 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "date": "2026-10-29",
   "notes": [
-    "Monthly, Yearly and Lifetime on one page. Monthly lasts 30 days, Yearly 12 months.",
-    "A reminder 5 days before a plan ends, with a button to get a new plan.",
-    "Smooth 120 FPS works on clips that are already 120 fps or more."
+    "DLSS 5 GG Booster: pick your game (Valorant, Call of Duty, Fortnite, CS2, GTA V and more), each with its own look.",
+    "Quality: Fast, HD, 4K or 4K \u00b7 120 FPS, like the DLSS 5 TikToks.",
+    "Color grading grouped by game, with 7 new game looks."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.1/GG-Studio-0.8.1.zxp",
-    "sha256": "2e2afd8419151a68f4add766539970d2a01c3c21c74bcf11a2517d5acdde34fe",
-    "size": 21570315
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.2/GG-Studio-0.8.2.zxp",
+    "sha256": "24068275c27509035c6b7f71da5857753273bbd3a22e8ab57946ec60f1a3c938",
+    "size": 24391633
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.1/GG-Studio-Setup-0.8.1.exe",
-    "sha256": "548505b6bc7774da1578fd1f1c321578d2b8709cc38a930810c0cb6ce00aa7f4"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.2/GG-Studio-Setup-0.8.2.exe",
+    "sha256": "3e8df45b77cffb35608070069c0b2646ed0b4c4f9f2311c1a9a53093fa269c31"
   },
   "minAE": "22.0"
 }
