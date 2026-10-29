@@ -4,12 +4,15 @@ Updates for **GG Studio**, an After Effects panel for gameplay and TikTok creato
 
 GG Studio checks `latest.json` here when it starts. When there's a newer version, the panel shows **Update**. Click it, restart After Effects, and you're up to date. You still need your licence key from your Gumroad receipt.
 
-Get GG Studio: https://proq8er.gumroad.com/l/ggstudio
+Get GG Studio:
+- Monthly or Yearly: https://proq8er.gumroad.com/l/ggstudio-plan
+- Lifetime (pay once): https://proq8er.gumroad.com/l/ggstudio
 
 ## Versions
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.8.0 | 2026-10-29 | [GG-Studio-Setup-0.8.0.exe](releases/0.8.0/GG-Studio-Setup-0.8.0.exe) | [What's new](releases/0.8.0/NOTES.md): DLSS presets, Monthly / Yearly / Lifetime plans |
 | 0.7.2 | 2026-10-21 | [GG-Studio-Setup-0.7.2.exe](releases/0.7.2/GG-Studio-Setup-0.7.2.exe) | [What's new](releases/0.7.2/NOTES.md): cleaner Animate, Interact, Scene and Color sections |
 | 0.7.1 | 2026-10-21 | [GG-Studio-Setup-0.7.1.exe](releases/0.7.1/GG-Studio-Setup-0.7.1.exe) | [What's new](releases/0.7.1/NOTES.md): live preview in every section |
 | 0.7.0 | 2026-10-21 | [GG-Studio-Setup-0.7.0.exe](releases/0.7.0/GG-Studio-Setup-0.7.0.exe) | [What's new](releases/0.7.0/NOTES.md): Text presets, rebuilt Ember rise, cleaner Text panel |

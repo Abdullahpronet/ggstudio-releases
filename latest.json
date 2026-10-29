@@ -1,19 +1,19 @@
 {
-  "version": "0.7.2",
-  "date": "2026-10-21",
+  "version": "0.8.0",
+  "date": "2026-10-29",
   "notes": [
-    "Cleaner Animate, Interact, Scene and Color sections, grouped like the Text section.",
-    "Every card and style tile shows the tool on the GG Studio dark card; hover to play it.",
-    "Color tools show a framed before/after; style tiles show each look."
+    "DLSS presets: 7 one-click looks in the DLSS 5 GG Booster tab.",
+    "Monthly, Yearly and Lifetime plans. Keys you already have keep working as Lifetime.",
+    "Fixed the Gameplay fix picture in Color correction."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.2/GG-Studio-0.7.2.zxp",
-    "sha256": "7f054f730f8193ad3783ea37de6d946d4b03843ac07685fa16fbf9e792d8d384",
-    "size": 21518571
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.0/GG-Studio-0.8.0.zxp",
+    "sha256": "961741dcfb0dd784805ee2c6c7cc879ecc6cdfe5cbac4062ce44c9b4d120203a",
+    "size": 21569061
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.7.2/GG-Studio-Setup-0.7.2.exe",
-    "sha256": "fc6379bb3c6f6fc1d00af4f5f76d8e8ac649e4c430948c18896fbc44de439971"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.0/GG-Studio-Setup-0.8.0.exe",
+    "sha256": "007786633f6c7c901e0266ce9c063f1081d60ea2e187a757418f5b27384a9e1d"
   },
   "minAE": "22.0"
 }
