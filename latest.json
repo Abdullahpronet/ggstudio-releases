@@ -1,18 +1,19 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "date": "2026-10-30",
   "notes": [
-    "4K · 120 FPS is much faster on 120 fps clips: Frame Generation is skipped when the clip already has the frame rate.",
-    "GG Studio now tells you about how long a render will take."
+    "DLSS 5 game presets render about 3x faster: colour and sharpening now run before the 4K upscale.",
+    "Default export is now \"Best\": files about 30x smaller, same speed.",
+    "More accurate render time estimates."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.4/GG-Studio-0.8.4.zxp",
-    "sha256": "b65cbb4197bd9274c61344b85edbee7eb18da113548a7bee885f8d1d10dda31d",
-    "size": 24391795
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.5/GG-Studio-0.8.5.zxp",
+    "sha256": "9ddd64497602b24192b794180faf74b20018cc1999ec0f9c45272de7d2a41f80",
+    "size": 24392126
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.4/GG-Studio-Setup-0.8.4.exe",
-    "sha256": "f25a16d2fe4114ce0924c477fabe6cee67dff8d66eb2368d82672aa232bc89b4"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.5/GG-Studio-Setup-0.8.5.exe",
+    "sha256": "d3db6e3c46ba46c0814f119ce8c041132b8eca5c3c81cdae5a687f43b80de8da"
   },
   "minAE": "22.0"
 }
