@@ -1,18 +1,18 @@
 {
-  "version": "0.8.3",
+  "version": "0.8.4",
   "date": "2026-10-30",
   "notes": [
-    "Fixed: Valorant, Call of Duty, Warzone, CS2, GTA V and Siege DLSS presets now render on every quality.",
-    "Works with Visual Enhancer v20."
+    "4K · 120 FPS is much faster on 120 fps clips: Frame Generation is skipped when the clip already has the frame rate.",
+    "GG Studio now tells you about how long a render will take."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.3/GG-Studio-0.8.3.zxp",
-    "sha256": "954d6c8c589c1b63c8937cf6ae5a338c3561e4ae0a08dd8a05d5155880748de9",
-    "size": 24391698
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.4/GG-Studio-0.8.4.zxp",
+    "sha256": "b65cbb4197bd9274c61344b85edbee7eb18da113548a7bee885f8d1d10dda31d",
+    "size": 24391795
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.3/GG-Studio-Setup-0.8.3.exe",
-    "sha256": "f21f775ddd152a5a9ce5a9cb29a7eff1e5abc4673ecce77fa8763c2c6297dd02"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.4/GG-Studio-Setup-0.8.4.exe",
+    "sha256": "f25a16d2fe4114ce0924c477fabe6cee67dff8d66eb2368d82672aa232bc89b4"
   },
   "minAE": "22.0"
 }

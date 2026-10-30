@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.8.4 | 2026-10-30 | [GG-Studio-Setup-0.8.4.exe](releases/0.8.4/GG-Studio-Setup-0.8.4.exe) | [What's new](releases/0.8.4/NOTES.md): faster 4K · 120 on 120 fps clips, render time estimate |
 | 0.8.3 | 2026-10-30 | [GG-Studio-Setup-0.8.3.exe](releases/0.8.3/GG-Studio-Setup-0.8.3.exe) | [What's new](releases/0.8.3/NOTES.md): game presets fixed, Visual Enhancer v20 support |
 | 0.8.2 | 2026-10-29 | [GG-Studio-Setup-0.8.2.exe](releases/0.8.2/GG-Studio-Setup-0.8.2.exe) | [What's new](releases/0.8.2/NOTES.md): DLSS presets per game, 4K · 120 FPS, Color looks by game |
 | 0.8.1 | 2026-10-29 | [GG-Studio-Setup-0.8.1.exe](releases/0.8.1/GG-Studio-Setup-0.8.1.exe) | [What's new](releases/0.8.1/NOTES.md): Monthly / Yearly / Lifetime on one page, reminders before a plan ends |
