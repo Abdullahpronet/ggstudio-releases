@@ -1,19 +1,18 @@
 {
-  "version": "0.8.2",
-  "date": "2026-10-29",
+  "version": "0.8.3",
+  "date": "2026-10-30",
   "notes": [
-    "DLSS 5 GG Booster: pick your game (Valorant, Call of Duty, Fortnite, CS2, GTA V and more), each with its own look.",
-    "Quality: Fast, HD, 4K or 4K \u00b7 120 FPS, like the DLSS 5 TikToks.",
-    "Color grading grouped by game, with 7 new game looks."
+    "Fixed: Valorant, Call of Duty, Warzone, CS2, GTA V and Siege DLSS presets now render on every quality.",
+    "Works with Visual Enhancer v20."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.2/GG-Studio-0.8.2.zxp",
-    "sha256": "24068275c27509035c6b7f71da5857753273bbd3a22e8ab57946ec60f1a3c938",
-    "size": 24391633
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.3/GG-Studio-0.8.3.zxp",
+    "sha256": "954d6c8c589c1b63c8937cf6ae5a338c3561e4ae0a08dd8a05d5155880748de9",
+    "size": 24391698
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.2/GG-Studio-Setup-0.8.2.exe",
-    "sha256": "3e8df45b77cffb35608070069c0b2646ed0b4c4f9f2311c1a9a53093fa269c31"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.3/GG-Studio-Setup-0.8.3.exe",
+    "sha256": "f21f775ddd152a5a9ce5a9cb29a7eff1e5abc4673ecce77fa8763c2c6297dd02"
   },
   "minAE": "22.0"
 }
