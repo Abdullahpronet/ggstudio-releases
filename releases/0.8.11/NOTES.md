@@ -1,0 +1,4 @@
+# GG Studio 0.8.11
+
+- **Call of Duty keeps your colours on gameplay.** The Call of Duty look was made from a dark cinematic trailer and cut saturation, so on bright gameplay gold guns and blue containers went grey (colour roughly halved). On gameplay it now keeps the clip's own colour with clean contrast and cool highlights; dark, cinematic clips still get the calm "real life" trailer grade.
+- **Gentler on heavily compressed clips.** Clips with a very low bitrate for their size and frame rate (for example 1080p at 120 fps in 10 Mbps) are full of compression blocks, and full-strength neural detail and sharpening harden them into a crunchy, "painted" look. GG Studio now spots these clips and uses gentler neural strength and sharpening; the progress line says when. Normal recordings (OBS, ShadowPlay) are not affected.

@@ -1,18 +1,18 @@
 {
-  "version": "0.8.10",
+  "version": "0.8.11",
   "date": "2026-11-01",
   "notes": [
-    "The MW4 game preset is removed; if you had it picked, you're moved to Call of Duty.",
-    "Dark clips keep their shadows bright and gameplay keeps its own colours in every game look."
+    "Call of Duty keeps your clip's colours on gameplay (no more grey guns and containers).",
+    "Heavily compressed clips get gentler neural detail and sharpening, so compression blocks don't turn crunchy."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.10/GG-Studio-0.8.10.zxp",
-    "sha256": "fa2fcf43ed83e88ab5342d22ab086e18823e720c9b270dc52eb49722f700adf4",
-    "size": 24870929
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.11/GG-Studio-0.8.11.zxp",
+    "sha256": "35211b254a5cee8a36b9676cb5973d2afd5f60b815b3a3e876e4738bf25935e2",
+    "size": 24858424
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.10/GG-Studio-Setup-0.8.10.exe",
-    "sha256": "fb53143ae67a57d38778baae797cb20a7fc8f805422e4569625dd0053cf093ce"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.11/GG-Studio-Setup-0.8.11.exe",
+    "sha256": "9baf7941dab62628211b089c8e689cd1bcb47607690e35f6729e342a251f9c43"
   },
   "minAE": "22.0"
 }

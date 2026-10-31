@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.8.11 | 2026-11-01 | [GG-Studio-Setup-0.8.11.exe](releases/0.8.11/GG-Studio-Setup-0.8.11.exe) | [What's new](releases/0.8.11/NOTES.md): Call of Duty keeps colour on gameplay, gentler on compressed clips |
 | 0.8.10 | 2026-11-01 | [GG-Studio-Setup-0.8.10.exe](releases/0.8.10/GG-Studio-Setup-0.8.10.exe) | [What's new](releases/0.8.10/NOTES.md): MW4 preset removed |
 | 0.8.9 | 2026-11-01 | [GG-Studio-Setup-0.8.9.exe](releases/0.8.9/GG-Studio-Setup-0.8.9.exe) | [What's new](releases/0.8.9/NOTES.md): MW4 matches the DLSS 5 TikTok look |
 | 0.8.8 | 2026-11-01 | [GG-Studio-Setup-0.8.8.exe](releases/0.8.8/GG-Studio-Setup-0.8.8.exe) | [What's new](releases/0.8.8/NOTES.md): MW4 fixed for gameplay, colour adapts to dark and bright clips |
