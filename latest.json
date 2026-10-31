@@ -1,19 +1,19 @@
 {
-  "version": "0.8.5",
-  "date": "2026-10-30",
+  "version": "0.8.6",
+  "date": "2026-10-31",
   "notes": [
-    "DLSS 5 game presets render about 3x faster: colour and sharpening now run before the 4K upscale.",
-    "Default export is now \"Best\": files about 30x smaller, same speed.",
-    "More accurate render time estimates."
+    "Dark footage keeps its brightness: Call of Duty runs one neural pass and the game looks keep shadow detail.",
+    "4K and 4K · 120 FPS work on vertical and phone-size clips (no more \"Open NVENC\" error): the upscale now stays within 4K.",
+    "Results over 4096 pixels on a side save as H.265 automatically."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.5/GG-Studio-0.8.5.zxp",
-    "sha256": "9ddd64497602b24192b794180faf74b20018cc1999ec0f9c45272de7d2a41f80",
-    "size": 24392126
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.6/GG-Studio-0.8.6.zxp",
+    "sha256": "248aeefa404e4c7ca8428df706fa49deed4573fb3f5db92f209ab404d0041332",
+    "size": 24373435
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.5/GG-Studio-Setup-0.8.5.exe",
-    "sha256": "d3db6e3c46ba46c0814f119ce8c041132b8eca5c3c81cdae5a687f43b80de8da"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.6/GG-Studio-Setup-0.8.6.exe",
+    "sha256": "bb66c48c32cb66b6e6eec342ad6750307fb6a413279535b634744c4e6bec480e"
   },
   "minAE": "22.0"
 }
