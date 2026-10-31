@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.8.7 | 2026-11-01 | [GG-Studio-Setup-0.8.7.exe](releases/0.8.7/GG-Studio-Setup-0.8.7.exe) | [What's new](releases/0.8.7/NOTES.md): new MW4 game preset, truer colour in every game look |
 | 0.8.6 | 2026-10-31 | [GG-Studio-Setup-0.8.6.exe](releases/0.8.6/GG-Studio-Setup-0.8.6.exe) | [What's new](releases/0.8.6/NOTES.md): dark clips keep their brightness, 4K on vertical clips |
 | 0.8.5 | 2026-10-30 | [GG-Studio-Setup-0.8.5.exe](releases/0.8.5/GG-Studio-Setup-0.8.5.exe) | [What's new](releases/0.8.5/NOTES.md): game presets about 3× faster, smaller files |
 | 0.8.4 | 2026-10-30 | [GG-Studio-Setup-0.8.4.exe](releases/0.8.4/GG-Studio-Setup-0.8.4.exe) | [What's new](releases/0.8.4/NOTES.md): faster 4K · 120 on 120 fps clips, render time estimate |

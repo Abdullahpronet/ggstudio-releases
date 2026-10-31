@@ -1,19 +1,19 @@
 {
-  "version": "0.8.6",
-  "date": "2026-10-31",
+  "version": "0.8.7",
+  "date": "2026-11-01",
   "notes": [
-    "Dark footage keeps its brightness: Call of Duty runs one neural pass and the game looks keep shadow detail.",
-    "4K and 4K · 120 FPS work on vertical and phone-size clips (no more \"Open NVENC\" error): the upscale now stays within 4K.",
-    "Results over 4096 pixels on a side save as H.265 automatically."
+    "New MW4 game preset: the bright DLSS 5 look with full neural detail, keeping your clip's own colours.",
+    "Truer colour in every game look: the neural stage's yellow-orange tint is removed.",
+    "Black borders stay black in every game look."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.6/GG-Studio-0.8.6.zxp",
-    "sha256": "248aeefa404e4c7ca8428df706fa49deed4573fb3f5db92f209ab404d0041332",
-    "size": 24373435
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.7/GG-Studio-0.8.7.zxp",
+    "sha256": "9ef5c0bfb98240b16049f8e1e8915e756d1e0011f350b14a620d40be5c6bbd10",
+    "size": 24450107
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.6/GG-Studio-Setup-0.8.6.exe",
-    "sha256": "bb66c48c32cb66b6e6eec342ad6750307fb6a413279535b634744c4e6bec480e"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.7/GG-Studio-Setup-0.8.7.exe",
+    "sha256": "647b4759bdee97b010e5c6d3e1cce6f3a70b08dde5229973719d08aa475f1b43"
   },
   "minAE": "22.0"
 }
