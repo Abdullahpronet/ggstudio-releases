@@ -1,18 +1,18 @@
 {
-  "version": "0.8.8",
+  "version": "0.8.9",
   "date": "2026-11-01",
   "notes": [
-    "MW4 preset fixed for gameplay: no more washed-out look, real blacks, your clip's own colours.",
-    "Each clip is measured first: dark, cinematic clips keep their shadows bright; gameplay gets the plain look."
+    "MW4 now looks like the MW4 DLSS 5 TikTok clips: bright, warm golden light, creamy highlights, rich colour, full neural detail.",
+    "Dark, cinematic clips get a softer MW4 look so night scenes don't go orange-brown."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.8/GG-Studio-0.8.8.zxp",
-    "sha256": "3ce72a903d6a6c9068ce0e52485e1cd9b48ce3b944d6445feffdeaa85c6c961d",
-    "size": 25007065
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.9/GG-Studio-0.8.9.zxp",
+    "sha256": "dfe0303ccda8d69a79d1aec8d7581f49b67af74c26e93dc29c88c443e65a18d7",
+    "size": 24982980
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.8/GG-Studio-Setup-0.8.8.exe",
-    "sha256": "71e2d5227d8be424c20a8b7f8ea257dea0467738e1f2eeef47efe7ee3abc23d1"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.9/GG-Studio-Setup-0.8.9.exe",
+    "sha256": "1ab96f532eba841732591289612fbfc3452823de9d8e4f53740b181a8f1bb40d"
   },
   "minAE": "22.0"
 }
