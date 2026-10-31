@@ -1,19 +1,18 @@
 {
-  "version": "0.8.7",
+  "version": "0.8.8",
   "date": "2026-11-01",
   "notes": [
-    "New MW4 game preset: the bright DLSS 5 look with full neural detail, keeping your clip's own colours.",
-    "Truer colour in every game look: the neural stage's yellow-orange tint is removed.",
-    "Black borders stay black in every game look."
+    "MW4 preset fixed for gameplay: no more washed-out look, real blacks, your clip's own colours.",
+    "Each clip is measured first: dark, cinematic clips keep their shadows bright; gameplay gets the plain look."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.7/GG-Studio-0.8.7.zxp",
-    "sha256": "9ef5c0bfb98240b16049f8e1e8915e756d1e0011f350b14a620d40be5c6bbd10",
-    "size": 24450107
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.8/GG-Studio-0.8.8.zxp",
+    "sha256": "3ce72a903d6a6c9068ce0e52485e1cd9b48ce3b944d6445feffdeaa85c6c961d",
+    "size": 25007065
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.7/GG-Studio-Setup-0.8.7.exe",
-    "sha256": "647b4759bdee97b010e5c6d3e1cce6f3a70b08dde5229973719d08aa475f1b43"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.8/GG-Studio-Setup-0.8.8.exe",
+    "sha256": "71e2d5227d8be424c20a8b7f8ea257dea0467738e1f2eeef47efe7ee3abc23d1"
   },
   "minAE": "22.0"
 }
