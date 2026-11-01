@@ -1,19 +1,18 @@
 {
-  "version": "0.8.13",
+  "version": "0.8.14",
   "date": "2026-11-01",
   "notes": [
-    "4K clips no longer crash the graphics card: they are shrunk to 1080p for the neural stage and DLSS brings them back to 4K.",
-    "Clips that are already 4K skip DLSS Super Resolution; clearer message if the graphics driver crashes.",
-    "Safer updates: a PC restart during an update can no longer leave GG Studio missing."
+    "Updates no longer need an After Effects restart: from now on GG Studio installs updates into the open panel and reloads itself.",
+    "To get this version: click Update, then close and reopen After Effects one last time."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.13/GG-Studio-0.8.13.zxp",
-    "sha256": "dbcd27a4372525fc8a57727558370befaf18d7f05dc0fdb23d17e6dc8879bab8",
-    "size": 24859943
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.14/GG-Studio-0.8.14.zxp",
+    "sha256": "b398a2c0452fc104ba9ef8ca61d4982ba4d9206a58b656e2c56a545979563fc2",
+    "size": 24860960
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.13/GG-Studio-Setup-0.8.13.exe",
-    "sha256": "4fa7e453f5608813b909496605475ae7781a9fdc9c2b3f94ac16d01dd8efcd90"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.14/GG-Studio-Setup-0.8.14.exe",
+    "sha256": "2c9119fc22d034368abb702fda9308afac4acb30256b7157bbe6b08d644c3176"
   },
   "minAE": "22.0"
 }

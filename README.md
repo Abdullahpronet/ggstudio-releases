@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.8.14 | 2026-11-01 | [GG-Studio-Setup-0.8.14.exe](releases/0.8.14/GG-Studio-Setup-0.8.14.exe) | [What's new](releases/0.8.14/NOTES.md): updates install without restarting After Effects |
 | 0.8.13 | 2026-11-01 | [GG-Studio-Setup-0.8.13.exe](releases/0.8.13/GG-Studio-Setup-0.8.13.exe) | [What's new](releases/0.8.13/NOTES.md): 4K clips shrunk to 1080p for the neural stage (no more GPU crashes), safer updates |
 | 0.8.12 | 2026-11-01 | [GG-Studio-Setup-0.8.12.exe](releases/0.8.12/GG-Studio-Setup-0.8.12.exe) | [What's new](releases/0.8.12/NOTES.md): DLSS 5 GG Booster works on RTX 20/30 cards (Frame Generation skipped) |
 | 0.8.11 | 2026-11-01 | [GG-Studio-Setup-0.8.11.exe](releases/0.8.11/GG-Studio-Setup-0.8.11.exe) | [What's new](releases/0.8.11/NOTES.md): Call of Duty keeps colour on gameplay, gentler on compressed clips |
