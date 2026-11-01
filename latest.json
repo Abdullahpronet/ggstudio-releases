@@ -1,18 +1,19 @@
 {
-  "version": "0.8.12",
+  "version": "0.8.13",
   "date": "2026-11-01",
   "notes": [
-    "DLSS 5 GG Booster works on RTX 20 and 30 series cards: Frame Generation (RTX 40/50 only) is skipped and the other stages still run.",
-    "If Frame Generation still fails (old driver), the clip is enhanced again without it automatically."
+    "4K clips no longer crash the graphics card: they are shrunk to 1080p for the neural stage and DLSS brings them back to 4K.",
+    "Clips that are already 4K skip DLSS Super Resolution; clearer message if the graphics driver crashes.",
+    "Safer updates: a PC restart during an update can no longer leave GG Studio missing."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.12/GG-Studio-0.8.12.zxp",
-    "sha256": "105e008064fbbf4b4ee66cca89c0c402e0d64a8ec9b72d0274ea9afc22d7c7fa",
-    "size": 24858915
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.13/GG-Studio-0.8.13.zxp",
+    "sha256": "dbcd27a4372525fc8a57727558370befaf18d7f05dc0fdb23d17e6dc8879bab8",
+    "size": 24859943
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.12/GG-Studio-Setup-0.8.12.exe",
-    "sha256": "25697e1698073d053a0a3cec9ee39029363e3b282790b6e8f9123876779c3d1e"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.8.13/GG-Studio-Setup-0.8.13.exe",
+    "sha256": "4fa7e453f5608813b909496605475ae7781a9fdc9c2b3f94ac16d01dd8efcd90"
   },
   "minAE": "22.0"
 }
