@@ -1,19 +1,19 @@
 {
-  "version": "0.9.2",
+  "version": "0.9.3",
   "date": "2026-11-03",
   "notes": [
-    "The free 2-day demo is now checked online: reinstalling GG Studio or Windows, deleting files, another Windows account or changing the clock doesn't give a new demo.",
-    "Starting the demo needs the internet once; after that it works offline until its 2 days are up.",
-    "Buyers with a key see no change."
+    "Harder to tamper with: GG Studio checks its own files at every start and only runs the official signed version.",
+    "GG Studio's code is now scrambled, so the licence and demo checks are much harder to change.",
+    "Buyers and demo users see no change."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.2/GG-Studio-0.9.2.zxp",
-    "sha256": "1cfdcf638f67afd358aa18615460ace762ea88686f92ce38f22025f29e2a9054",
-    "size": 24865426
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.3/GG-Studio-0.9.3.zxp",
+    "sha256": "7ce62f3ae4447639f922f0300e7c0ef5f362b8c67fa41db30ea7681236c9b587",
+    "size": 25174833
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.2/GG-Studio-Setup-0.9.2.exe",
-    "sha256": "e334f547106ce37910b659e5d461f4b0aba45b3c3b85f09c2460786f8ed5a74a"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.3/GG-Studio-Setup-0.9.3.exe",
+    "sha256": "3aed3400bd2df1b9143c7fb663d71adbd680bcfc4bfc5145c2b907894d89f1c6"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"

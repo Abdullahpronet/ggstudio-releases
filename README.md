@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.9.3 | 2026-11-03 | [GG-Studio-Setup-0.9.3.exe](releases/0.9.3/GG-Studio-Setup-0.9.3.exe) | [What's new](releases/0.9.3/NOTES.md): tamper protection (self-check of signed files, scrambled code) |
 | 0.9.2 | 2026-11-03 | [GG-Studio-Setup-0.9.2.exe](releases/0.9.2/GG-Studio-Setup-0.9.2.exe) | [What's new](releases/0.9.2/NOTES.md): free demo checked online (one demo per PC, even after reinstalling Windows) |
 | 0.9.1 | 2026-11-03 | [GG-Studio-Setup-0.9.1.exe](releases/0.9.1/GG-Studio-Setup-0.9.1.exe) | [What's new](releases/0.9.1/NOTES.md): one free demo per PC (no new demo from a new Windows account, reinstall or clock change) |
 | 0.9.0 | 2026-11-03 | [GG-Studio-Setup-0.9.0.exe](releases/0.9.0/GG-Studio-Setup-0.9.0.exe) | [What's new](releases/0.9.0/NOTES.md): free 2-day demo with a countdown in the panel |
