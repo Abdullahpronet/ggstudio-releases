@@ -1,19 +1,17 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "date": "2026-11-03",
   "notes": [
-    "Harder to tamper with: GG Studio checks its own files at every start and only runs the official signed version.",
-    "GG Studio's code is now scrambled, so the licence and demo checks are much harder to change.",
-    "Buyers and demo users see no change."
+    "Links open again: Pick a plan, the plan buttons, Manage plan and the GG Booster download link now open in your browser."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.3/GG-Studio-0.9.3.zxp",
-    "sha256": "7ce62f3ae4447639f922f0300e7c0ef5f362b8c67fa41db30ea7681236c9b587",
-    "size": 25174833
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.4/GG-Studio-0.9.4.zxp",
+    "sha256": "7670a2ee23fa6681eaf9dbe0ca482eb6037183918d8372db57fb67deaaccd70e",
+    "size": 25174929
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.3/GG-Studio-Setup-0.9.3.exe",
-    "sha256": "3aed3400bd2df1b9143c7fb663d71adbd680bcfc4bfc5145c2b907894d89f1c6"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.4/GG-Studio-Setup-0.9.4.exe",
+    "sha256": "d2de02ce6f42df6c68f10954fd155eb33d900be224cd56f18607838d704a6e83"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
