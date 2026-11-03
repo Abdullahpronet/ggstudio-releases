@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.9.1 | 2026-11-03 | [GG-Studio-Setup-0.9.1.exe](releases/0.9.1/GG-Studio-Setup-0.9.1.exe) | [What's new](releases/0.9.1/NOTES.md): one free demo per PC (no new demo from a new Windows account, reinstall or clock change) |
 | 0.9.0 | 2026-11-03 | [GG-Studio-Setup-0.9.0.exe](releases/0.9.0/GG-Studio-Setup-0.9.0.exe) | [What's new](releases/0.9.0/NOTES.md): free 2-day demo with a countdown in the panel |
 | 0.8.14 | 2026-11-01 | [GG-Studio-Setup-0.8.14.exe](releases/0.8.14/GG-Studio-Setup-0.8.14.exe) | [What's new](releases/0.8.14/NOTES.md): updates install without restarting After Effects |
 | 0.8.13 | 2026-11-01 | [GG-Studio-Setup-0.8.13.exe](releases/0.8.13/GG-Studio-Setup-0.8.13.exe) | [What's new](releases/0.8.13/NOTES.md): 4K clips shrunk to 1080p for the neural stage (no more GPU crashes), safer updates |
