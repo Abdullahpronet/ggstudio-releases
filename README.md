@@ -1,8 +1,8 @@
 # GG Studio releases
 
-Updates for **GG Studio**, an After Effects panel for gameplay and TikTok creators, by NOME.
+Updates for **GG Studio**, an After Effects and Premiere Pro panel for gameplay and TikTok creators, by NOME.
 
-GG Studio checks `latest.json` here when it starts. When there's a newer version, the panel shows **Update**. Click it, restart After Effects, and you're up to date. You still need your licence key from your Gumroad receipt, or start the free 2-day demo in the panel.
+GG Studio checks `latest.json` here when it starts. When there's a newer version, the panel shows **Update**. Click it and GG Studio updates itself. You still need your licence key from your Gumroad receipt, or start the free 2-day demo in the panel.
 
 Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstudio
 
@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.10.0 | 2026-11-06 | [GG-Studio-Setup-0.10.0.exe](releases/0.10.0/GG-Studio-Setup-0.10.0.exe) | [What's new](releases/0.10.0/NOTES.md): GG Studio in Premiere Pro, new Deep Glow tab and presets |
 | 0.9.4 | 2026-11-03 | [GG-Studio-Setup-0.9.4.exe](releases/0.9.4/GG-Studio-Setup-0.9.4.exe) | [What's new](releases/0.9.4/NOTES.md): Pick a plan and other links open in the browser again |
 | 0.9.3 | 2026-11-03 | [GG-Studio-Setup-0.9.3.exe](releases/0.9.3/GG-Studio-Setup-0.9.3.exe) | [What's new](releases/0.9.3/NOTES.md): tamper protection (self-check of signed files, scrambled code) |
 | 0.9.2 | 2026-11-03 | [GG-Studio-Setup-0.9.2.exe](releases/0.9.2/GG-Studio-Setup-0.9.2.exe) | [What's new](releases/0.9.2/NOTES.md): free demo checked online (one demo per PC, even after reinstalling Windows) |

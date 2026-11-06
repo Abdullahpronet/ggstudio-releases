@@ -1,17 +1,19 @@
 {
-  "version": "0.9.4",
-  "date": "2026-11-03",
+  "version": "0.10.0",
+  "date": "2026-11-06",
   "notes": [
-    "Links open again: Pick a plan, the plan buttons, Manage plan and the GG Booster download link now open in your browser."
+    "GG Studio now works in Premiere Pro: text presets, captions, gaming graphics, colour tools and more, in the same panel with the same key.",
+    "New Deep Glow tab in Premiere, plus four drag-on Deep Glow effect presets (Natural, Neon, Dreamy, Hot).",
+    "Every Premiere text and gaming graphic has a Deep glow setting."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.4/GG-Studio-0.9.4.zxp",
-    "sha256": "7670a2ee23fa6681eaf9dbe0ca482eb6037183918d8372db57fb67deaaccd70e",
-    "size": 25174929
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.0/GG-Studio-0.10.0.zxp",
+    "sha256": "9955b2029e2197a0b3389d2d794b5e1ef43fb073ad9934873e22a0dfeb64053b",
+    "size": 55016958
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.9.4/GG-Studio-Setup-0.9.4.exe",
-    "sha256": "d2de02ce6f42df6c68f10954fd155eb33d900be224cd56f18607838d704a6e83"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.0/GG-Studio-Setup-0.10.0.exe",
+    "sha256": "d788a6bf354cf876ed93fa053cd3e6e07b6f113fa5a66307720429e72ceb36ca"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
