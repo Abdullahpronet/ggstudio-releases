@@ -4,7 +4,8 @@
   "notes": [
     "GG Studio now runs in Premiere Pro 2022 or newer (was 2026 or newer). Every tool works there.",
     "Text and gaming graphics need Premiere Pro 2025 or newer: all 204 templates were rebuilt so they open in Premiere 2025 too.",
-    "On Premiere before 25.6 (no Wonder Glow), Deep Glow uses a classic glow instead."
+    "On Premiere before 25.6 (no Wonder Glow), Deep Glow uses a classic glow instead.",
+    "Setup: the GG Booster engine download no longer fails after downloading, works when GitHub is busy, and installs on another drive when C: is full."
   ],
   "zxp": {
     "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.3/GG-Studio-0.10.3.zxp",
@@ -25,7 +26,7 @@
   },
   "installer": {
     "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.3/GG-Studio-Setup-0.10.3.exe",
-    "sha256": "b12d41aebd26deefcd9ad643082454e67365ce227dee4895e7c4464adc835b13"
+    "sha256": "dfaf0953e77778509b1fddf5d413bb1c9fabd3db583b0f0033ced8cffdb1aac6"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
