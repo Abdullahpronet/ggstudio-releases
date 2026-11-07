@@ -1,6 +1,6 @@
 # GG Studio releases
 
-Updates for **GG Studio**, an After Effects (2022+) and Premiere Pro (2026+) panel for gameplay and TikTok creators, by NOME.
+Updates for **GG Studio**, an After Effects (2022+) and Premiere Pro (2022+; text and gaming graphics need 2025+) panel for gameplay and TikTok creators, by NOME.
 
 GG Studio checks `latest.json` here when it starts. When there's a newer version, the panel shows **Update**. Click it and GG Studio updates itself. You still need your licence key from your Gumroad receipt, or start the free 2-day demo in the panel.
 
@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.10.3 | 2026-11-07 | [GG-Studio-Setup-0.10.3.exe](releases/0.10.3/GG-Studio-Setup-0.10.3.exe) | [What's new](releases/0.10.3/NOTES.md): Premiere Pro 2022 or newer (graphics need 2025+) |
 | 0.10.2 | 2026-11-07 | [GG-Studio-Setup-0.10.2.exe](releases/0.10.2/GG-Studio-Setup-0.10.2.exe) | [What's new](releases/0.10.2/NOTES.md): pick After Effects, Premiere Pro or both; much faster setup |
 | 0.10.1 | 2026-11-06 | [GG-Studio-Setup-0.10.1.exe](releases/0.10.1/GG-Studio-Setup-0.10.1.exe) | [What's new](releases/0.10.1/NOTES.md): Premiere Pro 2026 or newer (so the graphics always load) |
 | 0.10.0 | 2026-11-06 | [GG-Studio-Setup-0.10.0.exe](releases/0.10.0/GG-Studio-Setup-0.10.0.exe) | [What's new](releases/0.10.0/NOTES.md): GG Studio in Premiere Pro, new Deep Glow tab and presets |

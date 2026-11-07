@@ -1,31 +1,31 @@
 {
-  "version": "0.10.2",
+  "version": "0.10.3",
   "date": "2026-11-07",
   "notes": [
-    "The installer now lets you pick the apps: After Effects, Premiere Pro or both. Updates keep your choice.",
-    "Much faster setup: the GG Booster engine downloads in under a minute on a fast connection (was up to 18 minutes), with a progress window showing MB, speed and time left.",
-    "Run the installer again any time to add or remove an app."
+    "GG Studio now runs in Premiere Pro 2022 or newer (was 2026 or newer). Every tool works there.",
+    "Text and gaming graphics need Premiere Pro 2025 or newer: all 204 templates were rebuilt so they open in Premiere 2025 too.",
+    "On Premiere before 25.6 (no Wonder Glow), Deep Glow uses a classic glow instead."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-0.10.2.zxp",
-    "sha256": "dd9339dfa3a2332df0f336d27cc479f05ce996db191f94e7a2035c1663b343cf",
-    "size": 55017942
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.3/GG-Studio-0.10.3.zxp",
+    "sha256": "2ee3996f4eac0a457e05e48a316604c6a7a7be855141ee19e6e9ee12179129b3",
+    "size": 54414755
   },
   "variants": {
     "aeft": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-0.10.2-aeft.zip",
-      "sha256": "3c6a05718ded865f1987d00e9b7b115ace997bba217d7043889765bbe7878a2d",
-      "size": 36280
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.3/GG-Studio-0.10.3-aeft.zip",
+      "sha256": "4fec368dd9aeb67fe71be979dd06e94f2d06c24fb927e6675e6ceaa438d8c884",
+      "size": 36292
     },
     "ppro": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-0.10.2-ppro.zip",
-      "sha256": "aed41f70f973687c3ecf49c0d6650d877a295f3a2ef714016927b0bbf30b1395",
-      "size": 36283
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.3/GG-Studio-0.10.3-ppro.zip",
+      "sha256": "48a9be7f0a859ea4973e68dffe7ae73feb21b8c10f6adcb37660b0daf7cd2c90",
+      "size": 36304
     }
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-Setup-0.10.2.exe",
-    "sha256": "a57f32181f3e4e9303699db263d4ed339612584434cad67e361a77b33db80eea"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.3/GG-Studio-Setup-0.10.3.exe",
+    "sha256": "b12d41aebd26deefcd9ad643082454e67365ce227dee4895e7c4464adc835b13"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
