@@ -1,19 +1,31 @@
 {
-  "version": "0.10.1",
-  "date": "2026-11-06",
+  "version": "0.10.2",
+  "date": "2026-11-07",
   "notes": [
-    "GG Studio now works in Premiere Pro 2026 and newer: text presets, captions, gaming graphics, colour tools and more, in the same panel with the same key.",
-    "New Deep Glow tab in Premiere, plus four drag-on Deep Glow effect presets (Natural, Neon, Dreamy, Hot).",
-    "Every Premiere text and gaming graphic has a Deep glow setting."
+    "The installer now lets you pick the apps: After Effects, Premiere Pro or both. Updates keep your choice.",
+    "Much faster setup: the GG Booster engine downloads in under a minute on a fast connection (was up to 18 minutes), with a progress window showing MB, speed and time left.",
+    "Run the installer again any time to add or remove an app."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.1/GG-Studio-0.10.1.zxp",
-    "sha256": "2165a7d36fa9a87580fe8402aa20174281997eb824ef634bd81f3abfa699a493",
-    "size": 55017108
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-0.10.2.zxp",
+    "sha256": "dd9339dfa3a2332df0f336d27cc479f05ce996db191f94e7a2035c1663b343cf",
+    "size": 55017942
+  },
+  "variants": {
+    "aeft": {
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-0.10.2-aeft.zip",
+      "sha256": "3c6a05718ded865f1987d00e9b7b115ace997bba217d7043889765bbe7878a2d",
+      "size": 36280
+    },
+    "ppro": {
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-0.10.2-ppro.zip",
+      "sha256": "aed41f70f973687c3ecf49c0d6650d877a295f3a2ef714016927b0bbf30b1395",
+      "size": 36283
+    }
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.1/GG-Studio-Setup-0.10.1.exe",
-    "sha256": "be55049e71b0118ef8f64a3519206edd4a576e3f6fb1031f0a46aefc2561e45d"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.2/GG-Studio-Setup-0.10.2.exe",
+    "sha256": "a57f32181f3e4e9303699db263d4ed339612584434cad67e361a77b33db80eea"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"

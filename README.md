@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.10.2 | 2026-11-07 | [GG-Studio-Setup-0.10.2.exe](releases/0.10.2/GG-Studio-Setup-0.10.2.exe) | [What's new](releases/0.10.2/NOTES.md): pick After Effects, Premiere Pro or both; much faster setup |
 | 0.10.1 | 2026-11-06 | [GG-Studio-Setup-0.10.1.exe](releases/0.10.1/GG-Studio-Setup-0.10.1.exe) | [What's new](releases/0.10.1/NOTES.md): Premiere Pro 2026 or newer (so the graphics always load) |
 | 0.10.0 | 2026-11-06 | [GG-Studio-Setup-0.10.0.exe](releases/0.10.0/GG-Studio-Setup-0.10.0.exe) | [What's new](releases/0.10.0/NOTES.md): GG Studio in Premiere Pro, new Deep Glow tab and presets |
 | 0.9.4 | 2026-11-03 | [GG-Studio-Setup-0.9.4.exe](releases/0.9.4/GG-Studio-Setup-0.9.4.exe) | [What's new](releases/0.9.4/NOTES.md): Pick a plan and other links open in the browser again |
