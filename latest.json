@@ -8,24 +8,24 @@
   ],
   "zxp": {
     "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-0.10.4.zxp",
-    "sha256": "e1dfb32c0060b523a5dc142d15427243ce135bbf976d4f58429ef82445088a8a",
-    "size": 54423437
+    "sha256": "78a42295065001d77531c17e57ebab9a983d26d9b591d32928f4c9fb8d2c078b",
+    "size": 54423546
   },
   "variants": {
     "aeft": {
       "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-0.10.4-aeft.zip",
-      "sha256": "2edef1407b36d01ba63b3058cd36ed4b95eb7d7b3f7a62de722eca8aff0d90ae",
-      "size": 36491
+      "sha256": "915474957553d6675e24033c20f3cbdb4971d35ed65b8b9261a61fa00ad103e4",
+      "size": 36484
     },
     "ppro": {
       "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-0.10.4-ppro.zip",
-      "sha256": "b93d5bb3c3e786f03afa6a343de909d52d376d58d37c2caed14f3c271514aceb",
+      "sha256": "e4fb02609ea09c791dc9b90386412155c566fedf29bdbdb984cc7d5c6dd93a47",
       "size": 36492
     }
   },
   "installer": {
     "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-Setup-0.10.4.exe",
-    "sha256": "7a478dcb5b4bccbaec80705217e814d8080acaa338750e48452c8089cf758daa"
+    "sha256": "2d8521b244cd8d85b436e67f0ede92abcda1ac26344c7674075e1fa833104876"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
