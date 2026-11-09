@@ -1,31 +1,31 @@
 {
-  "version": "0.10.4",
+  "version": "0.10.5",
   "date": "2026-11-09",
   "notes": [
-    "DLSS 5 GG Booster is about twice as fast: colour and sharpening are done while the clip is prepared, same look.",
-    "Live preview of your own clip in the GG Booster tab: the frame under the playhead, Original | DLSS 5, updates by itself.",
-    "The enhanced clip lands in your comp sooner; the smooth-playback copy is made in the background."
+    "Fix: DLSS 5 GG Booster results with Sharpening on no longer turn blocky (sharpening runs after the neural stage again).",
+    "GG Booster stays faster than 0.10.3: the game colour still runs in the fast pass.",
+    "Clips enhanced with 0.10.4 with Sharpening on: enhance them again."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-0.10.4.zxp",
-    "sha256": "78a42295065001d77531c17e57ebab9a983d26d9b591d32928f4c9fb8d2c078b",
-    "size": 54423546
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.5/GG-Studio-0.10.5.zxp",
+    "sha256": "a0b2941da64c36a20c24f8fbebf9f951287994bca894890cf378832080231000",
+    "size": 54423115
   },
   "variants": {
     "aeft": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-0.10.4-aeft.zip",
-      "sha256": "915474957553d6675e24033c20f3cbdb4971d35ed65b8b9261a61fa00ad103e4",
-      "size": 36484
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.5/GG-Studio-0.10.5-aeft.zip",
+      "sha256": "19606c1382f3432d77b3437309344f2c23fcdba893da5eca19058c6280edbe4a",
+      "size": 36483
     },
     "ppro": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-0.10.4-ppro.zip",
-      "sha256": "e4fb02609ea09c791dc9b90386412155c566fedf29bdbdb984cc7d5c6dd93a47",
-      "size": 36492
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.5/GG-Studio-0.10.5-ppro.zip",
+      "sha256": "824b8ae851cab4c78d66bb45226c21e8d69e0f51bf6d69210b3ad4208464081c",
+      "size": 36482
     }
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.4/GG-Studio-Setup-0.10.4.exe",
-    "sha256": "2d8521b244cd8d85b436e67f0ede92abcda1ac26344c7674075e1fa833104876"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.5/GG-Studio-Setup-0.10.5.exe",
+    "sha256": "32cf703e45118634d0fe9a12d27abefe1906e339f9ae0ba19cde6410dc28d099"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"

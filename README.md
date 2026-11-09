@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.10.5 | 2026-11-09 | [GG-Studio-Setup-0.10.5.exe](releases/0.10.5/GG-Studio-Setup-0.10.5.exe) | [What's new](releases/0.10.5/NOTES.md): fix blocky GG Booster results with Sharpening on |
 | 0.10.4 | 2026-11-09 | [GG-Studio-Setup-0.10.4.exe](releases/0.10.4/GG-Studio-Setup-0.10.4.exe) | [What's new](releases/0.10.4/NOTES.md): DLSS 5 GG Booster about 2× faster, live preview of your own clip |
 | 0.10.3 | 2026-11-07 | [GG-Studio-Setup-0.10.3.exe](releases/0.10.3/GG-Studio-Setup-0.10.3.exe) | [What's new](releases/0.10.3/NOTES.md): Premiere Pro 2022 or newer (graphics need 2025+) |
 | 0.10.2 | 2026-11-07 | [GG-Studio-Setup-0.10.2.exe](releases/0.10.2/GG-Studio-Setup-0.10.2.exe) | [What's new](releases/0.10.2/NOTES.md): pick After Effects, Premiere Pro or both; much faster setup |
