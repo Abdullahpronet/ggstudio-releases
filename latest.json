@@ -1,31 +1,31 @@
 {
-  "version": "0.10.7",
+  "version": "0.10.8",
   "date": "2026-11-13",
   "notes": [
-    "New lower prices: Monthly $4.99, Yearly $12.99, Lifetime $19.99.",
-    "Your key stays with your computer: logging out and back in on the same PC never uses up an activation.",
-    "One key works in both GG Studio and NOME 60 (2 computers per key)."
+    "Live previews on your own clip in every section: select a clip and each tool's preview shows your footage at the playhead.",
+    "Text tools animate your own words (select a text layer), with your clip behind them.",
+    "Color tools show before/after on your selected clip or the whole comp, following the playhead, like the GG Booster live preview."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-0.10.7.zxp",
-    "sha256": "b650cf34a3203aeed5d5224654cbf31c6918517f39a88e52660bd91431a2e12d",
-    "size": 54427973
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-0.10.8.zxp",
+    "sha256": "fc153658d8c5dd44ece00abc60b360258b0444af4e353342b11f3163a4c73016",
+    "size": 54448081
   },
   "variants": {
     "aeft": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-0.10.7-aeft.zip",
-      "sha256": "135c99c2ea0877f896889fa790713c321cfe0731ae06cfbd21657adc602e4190",
-      "size": 36695
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-0.10.8-aeft.zip",
+      "sha256": "3044a14caf868ecb9ea44495ba0b08586911e7c9aa3930f406c0479db440cdd0",
+      "size": 36708
     },
     "ppro": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-0.10.7-ppro.zip",
-      "sha256": "655a0cd8968c13c50780ef7c2c65d3f12300c55d29871bd5a508245c355d6827",
-      "size": 36710
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-0.10.8-ppro.zip",
+      "sha256": "d3b247860dd8aac690a088cad68b440e4a5c38d75fd39863c072b684debfe388",
+      "size": 36686
     }
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-Setup-0.10.7.exe",
-    "sha256": "279f199e974ba928abc879639b171e79d75ee9b90ba041384b24e01bf79a47cd"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-Setup-0.10.8.exe",
+    "sha256": "a1d3ad3bf3944fcd5bce4a9f24bea55eaf06d895b8ef43f67298911c6a363ab4"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
