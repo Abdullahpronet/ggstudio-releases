@@ -1,31 +1,30 @@
 {
-  "version": "0.10.8",
-  "date": "2026-11-13",
+  "version": "0.10.9",
+  "date": "2026-11-14",
   "notes": [
-    "Live previews on your own clip in every section: select a clip and each tool's preview shows your footage at the playhead.",
-    "Text tools animate your own words (select a text layer), with your clip behind them.",
-    "Color tools show before/after on your selected clip or the whole comp, following the playhead, like the GG Booster live preview."
+    "New GG Studio Preview panel: the tool preview in its own panel you can move, dock and make big, with zoom and Before / Split / After.",
+    "Open it from the button next to each tool's name (restart After Effects / Premiere once after updating)."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-0.10.8.zxp",
-    "sha256": "fc153658d8c5dd44ece00abc60b360258b0444af4e353342b11f3163a4c73016",
-    "size": 54448081
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.9/GG-Studio-0.10.9.zxp",
+    "sha256": "179f6a56ddf458bf64fefd986106c90261be3a1fc692f656bb3f3237e8c981c0",
+    "size": 54593463
   },
   "variants": {
     "aeft": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-0.10.8-aeft.zip",
-      "sha256": "3044a14caf868ecb9ea44495ba0b08586911e7c9aa3930f406c0479db440cdd0",
-      "size": 36708
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.9/GG-Studio-0.10.9-aeft.zip",
+      "sha256": "e54262cd5b6508955eeea5d6638eacf55a8a07d088f0a8e38f3cb3ead55dc94b",
+      "size": 36840
     },
     "ppro": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-0.10.8-ppro.zip",
-      "sha256": "d3b247860dd8aac690a088cad68b440e4a5c38d75fd39863c072b684debfe388",
-      "size": 36686
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.9/GG-Studio-0.10.9-ppro.zip",
+      "sha256": "0152a244fa567b8ea3e838cdd6f7c315e07426704f025ee0776a781a605afbb3",
+      "size": 36846
     }
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.8/GG-Studio-Setup-0.10.8.exe",
-    "sha256": "a1d3ad3bf3944fcd5bce4a9f24bea55eaf06d895b8ef43f67298911c6a363ab4"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.9/GG-Studio-Setup-0.10.9.exe",
+    "sha256": "dd98f09e28d876cdc2e0e2b365cd3e411a940e28314c0c23fd567314c922fc43"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"

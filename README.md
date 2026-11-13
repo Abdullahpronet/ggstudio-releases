@@ -12,6 +12,7 @@ Get GG Studio (Monthly, Yearly or Lifetime): https://proq8er.gumroad.com/l/ggstu
 
 | Version | Date | Installer | Notes |
 |---|---|---|---|
+| 0.10.9 | 2026-11-14 | [GG-Studio-Setup-0.10.9.exe](releases/0.10.9/GG-Studio-Setup-0.10.9.exe) | [What's new](releases/0.10.9/NOTES.md): big GG Studio Preview panel with zoom |
 | 0.10.8 | 2026-11-13 | [GG-Studio-Setup-0.10.8.exe](releases/0.10.8/GG-Studio-Setup-0.10.8.exe) | [What's new](releases/0.10.8/NOTES.md): live previews on your own clip in every section |
 | 0.10.7 | 2026-11-13 | [GG-Studio-Setup-0.10.7.exe](releases/0.10.7/GG-Studio-Setup-0.10.7.exe) | [What's new](releases/0.10.7/NOTES.md): new prices in the panel ($4.99 / $12.99 / $19.99) |
 | 0.10.6 | 2026-11-13 | [GG-Studio-Setup-0.10.6.exe](releases/0.10.6/GG-Studio-Setup-0.10.6.exe) | [What's new](releases/0.10.6/NOTES.md): keys locked to your PC (log out and back in freely), one key for GG Studio and NOME 60 |
