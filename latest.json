@@ -1,31 +1,31 @@
 {
-  "version": "0.10.6",
+  "version": "0.10.7",
   "date": "2026-11-13",
   "notes": [
-    "Your key stays with your computer: logging out and back in, or reinstalling, on the same PC never uses up an activation.",
-    "One key now works in both GG Studio and NOME 60 (2 computers per key).",
-    "Got \"already active on 2 computers\"? Update, then enter your key again."
+    "New lower prices: Monthly $4.99, Yearly $12.99, Lifetime $19.99.",
+    "Your key stays with your computer: logging out and back in on the same PC never uses up an activation.",
+    "One key works in both GG Studio and NOME 60 (2 computers per key)."
   ],
   "zxp": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.6/GG-Studio-0.10.6.zxp",
-    "sha256": "6fc25e7fecec579139dc575030a2115add08a9f3c10ed654c2c1b247eb256a70",
-    "size": 54425912
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-0.10.7.zxp",
+    "sha256": "b650cf34a3203aeed5d5224654cbf31c6918517f39a88e52660bd91431a2e12d",
+    "size": 54427973
   },
   "variants": {
     "aeft": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.6/GG-Studio-0.10.6-aeft.zip",
-      "sha256": "d8238801a99bea3832888aef3bcd600a3a6a21a4268cbf7cdb4587a1e254693d",
-      "size": 36687
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-0.10.7-aeft.zip",
+      "sha256": "135c99c2ea0877f896889fa790713c321cfe0731ae06cfbd21657adc602e4190",
+      "size": 36695
     },
     "ppro": {
-      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.6/GG-Studio-0.10.6-ppro.zip",
-      "sha256": "5cfba571ed15299baa567cc9135d44c8644a0cbc9b3e6331aece8f0a81bb165a",
-      "size": 36712
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-0.10.7-ppro.zip",
+      "sha256": "655a0cd8968c13c50780ef7c2c65d3f12300c55d29871bd5a508245c355d6827",
+      "size": 36710
     }
   },
   "installer": {
-    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.6/GG-Studio-Setup-0.10.6.exe",
-    "sha256": "573d99671b190e7720740abb0a5cc33a581252a00d0a8a53f45ae6531f002043"
+    "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/releases/0.10.7/GG-Studio-Setup-0.10.7.exe",
+    "sha256": "279f199e974ba928abc879639b171e79d75ee9b90ba041384b24e01bf79a47cd"
   },
   "minAE": "22.0",
   "demoServer": "https://gg-studio-demo.abdullahproq8.workers.dev"
