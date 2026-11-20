@@ -1,0 +1,18 @@
+{
+  "name": "NOME 60",
+  "version": "2.6.0",
+  "size": 153549514,
+  "sha256": "0657a86674417f2729151470258929ed14b0d4be7b9e7d33d80f17c5aa681546",
+  "parts": [
+    {
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/gifts/nome60/2.6.0/NOME-60-Setup-2.6.0.part0",
+      "sha256": "902502c40f29595ea752400d850f8124857293aa9ceeb60b3188edde3cab1057",
+      "size": 80000000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Abdullahpronet/ggstudio-releases/main/gifts/nome60/2.6.0/NOME-60-Setup-2.6.0.part1",
+      "sha256": "ef5b91cdf56913946f75f702bd43b20bf0d9b1d8a9f5a7b962490b470ef6fac1",
+      "size": 73549514
+    }
+  ]
+}
